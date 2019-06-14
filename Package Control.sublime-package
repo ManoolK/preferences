@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Dayle Rees Color Schemes",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Virtualenv",
+		"WakaTime"
+	]
+}
