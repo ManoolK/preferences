@@ -1,7 +1,8 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
-	"caret_style": "phase",
+	"caret_style": "solid",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"copy_with_empty_selection": false,
@@ -9,6 +10,7 @@
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace", "*.git"],
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
@@ -20,9 +22,9 @@
 	"ignored_packages":
 	[
 		"SublimeLinter",
-		"SublimeLinter-pylint",
 		"Vintage"
 	],
+	"indent_to_bracket": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"match_brackets_content": false,
@@ -38,7 +40,7 @@
 	"show_definitions": true,
 	"show_encoding": true,
 	"show_errors_inline": false,
-	"show_full_path": false,
+	"show_full_path": true,
 	"sidebar_default": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
